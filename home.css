@@ -1,0 +1,33 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+
+  font-family: 'Roboto', sans-serif;
+
+
+}
+
+.jumbotron{
+    text-align: center;
+    background-color: #8cb249;
+    color: #0C3E24
+    
+}
+
+.record{
+    text-align: center;
+}
+
+button {
+	width: 35px;
+	height: 35px;
+	font-size: 0;
+	background-color: red;
+	border: 0;
+	border-radius: 35px;
+	margin: 18px;
+	outline: none;
+    
+}
